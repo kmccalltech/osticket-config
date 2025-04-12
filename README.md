@@ -121,6 +121,6 @@ Navigate back to the Admin Panel so we can create SLA's by navigating to Manage 
     <img height="80%" width="80%" alt="Screenshot" src="https://i.imgur.com/q28iSCy.png" />
 
   </p>
-  <P>Heres a few help topics that I created.</P>
+  <P> Here are a few help topics that I created.</P>
 
-**This completes our configuration lab. See the Ticket Lifecycle Simulation lab next!**
+**This completes our configuration lab. Next will be the Ticket Response Lab, see you there!**
