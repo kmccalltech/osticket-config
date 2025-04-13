@@ -31,7 +31,7 @@ This tutorial will be the post-install configuration of the help desk ticketing 
 
 </p>
 <p>
-  The first thing we want to do is make sure you are on the Admin panel. If the top right status says "Agent Panel" then we know we are in the Admin panel. 
+  We'd like to make sure you are on the Admin panel. If the top right status says "Agent Panel" then we know we are in the Admin panel. 
 </p>
 <p>Create a role by navigating to Agents -> Roles. We can name this role "Senior Admin". In the permissions tab, select every permission for this role. Be sure to go through every permission tab for this role. Finish by "Add Role"
 </p>
@@ -40,7 +40,7 @@ This tutorial will be the post-install configuration of the help desk ticketing 
 <P><img height="80%" width="80%" alt="Screenshot" src="https://i.imgur.com/dgmK1jS.png" />
 </P>
 <p>
-  Configure departments by navigating to Agents -> Departments. Select Top Level Department and name the department System Administrators.
+  Configure departments by navigating to Agents -> Departments. Select the Top Level Department and name the department System Administrators.
 </p>
 <br />
 
